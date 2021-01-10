@@ -1,5 +1,7 @@
 # Relacon Relay Controller
 
+![OffTrak PCB 3D Render](doc/images/pcb3d.png)
+
 ## Overview
 
 The Relacon relay controller is intended to be an open source hardware alternative to the [ADU218](https://www.ontrak.net/ADU218.htm) USB relay I/O interface from [OnTrak Control Systems, Inc](https://www.ontrak.net). The Relacon is not as robust as the commercial offering, but what it lacks in polish it makes up for in cost. Relacon relay controller is about an order of magnitude cheaper to make yourself compared to purchasing an ADU218.
